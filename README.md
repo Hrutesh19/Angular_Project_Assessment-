@@ -3,8 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Project Output
+![Screenshot (492)](https://github.com/Hrutesh19/Angular_Project_Assessment-/assets/138818349/0f852b72-f57d-4d63-86d0-3b053fc66a36)
 
-![Screenshot (491)](https://github.com/Hrutesh19/Angular_Project_Assessment-/assets/138818349/02ce8c7a-21c5-4558-9caa-6156db190b1d)
 
 ## Development server
 
