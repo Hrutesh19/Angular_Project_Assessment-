@@ -1,0 +1,13 @@
+.section {
+    display: inline-block;
+    width: 35%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    height: 550px;
+    vertical-align: middle;
+    background-color: rgb(174, 216, 216);
+  
+}
+.section h6 {
+    text-align: center;
+  }

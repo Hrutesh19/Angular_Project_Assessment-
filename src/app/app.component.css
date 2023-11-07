@@ -1,0 +1,9 @@
+.section {
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    height: 500px;
+    vertical-align: middle;
+    background-color: lightblue;
+}
